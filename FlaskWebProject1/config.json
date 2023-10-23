@@ -1,0 +1,5 @@
+{
+  "username": "alexandru.tronciu",
+  "password": "alex2023",
+  "elasticsearch_url": "http://sift_pre_kibana.sfs.md:9200/mev_requests_log*/_search"
+}

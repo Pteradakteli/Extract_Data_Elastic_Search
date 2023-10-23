@@ -28,7 +28,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Extragere_date_ElasticSearch\app.py">
+    <Compile Include="Extragere_date_ElasticSearch\run.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="runserver.py" />
